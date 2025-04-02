@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F61%2F96%2Fea%2F6196eaa91f4627033ac9a10fad3424c4.jpg&f=1&nofb=1&ipt=5aa3c537d750b13cac1109004a8f4854896dc0a664c141ab0946555577a46d03&ipo=images"  />
+<img src="https://raw.githubusercontent.com/arma2201/arma2201/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -27,14 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arma2201/arma2201/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arma2201/arma2201/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arma2201/arma2201/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
