@@ -3,7 +3,7 @@
 
 <img src="https://github.com/arma2201/arma2201/blob/main/banner_github.jpeg" alt="GitHub Banner" width="100%" />
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
