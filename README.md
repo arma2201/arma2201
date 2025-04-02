@@ -1,6 +1,7 @@
 <h2 align="left">Hello👋! My name is Armando, I'm just a newbie trying to join in this complex but magnificent enviroment <3</h2>
 
 ###
+<img src="https://github.com/arma2201/arma2201/blob/main/banner_github.jpeg" alt="GitHub Banner" width="100%" />
 
 <img src="https://raw.githubusercontent.com/arma2201/arma2201/output/snake.svg" alt="Snake animation" />
 
