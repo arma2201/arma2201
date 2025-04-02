@@ -1,8 +1,7 @@
 <h2 align="left">Hello👋! My name is Armando, I'm just a newbie trying to join in this complex but magnificent enviroment <3</h2>
 
-###
+
 <img src="https://github.com/arma2201/arma2201/blob/main/banner_github.jpeg" alt="GitHub Banner" width="100%" />
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
