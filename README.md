@@ -34,3 +34,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/arma2201/arma2201/output/snake.svg" alt="Snake animation" />
+
+###
