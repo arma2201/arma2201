@@ -4,10 +4,6 @@
 <img src="https://github.com/arma2201/arma2201/blob/main/banner_github.jpeg" alt="GitHub Banner" width="100%" />
 ###
 
-<img src="https://raw.githubusercontent.com/arma2201/arma2201/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
